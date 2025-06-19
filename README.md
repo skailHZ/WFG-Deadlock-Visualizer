@@ -84,7 +84,7 @@
 
 ### 📥 Скачать готовую версию
 
-📎 [Скачать v1.0 (Windows .exe)](https://github.com/skailHZ/WFG-Deadlock-Visualizer/releases/download/v1.0/WFG-Deadlock-Visualizer_v1.0.zip) 
+📎 [Скачать v1.0 (Windows .exe)](https://github.com/skailHZ/WFG-Deadlock-Visualizer/releases/tag/v1.0) 
 
 ✔️ Для запуска не требуется установка Python  
 📁 Архив содержит:
